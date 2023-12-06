@@ -5,7 +5,7 @@
 
 
 ## Find me around the web 🌎:
-- Who am I? : [Personel Web Site](https://ibrahimtaskin.cf/) 📹 ✍🏾
+- Who am I? : [Personel Web Site](https://ibrahimtaskin.netlify.app/) 📹 ✍🏾
 - Sharing updates : [Linkedin](https://www.linkedin.com/in/ibrahim-ta%C5%9Fk%C4%B1n-4816ba170/) 💼
 
 
